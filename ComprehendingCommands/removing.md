@@ -4,7 +4,7 @@ Let's practice. This challenge will create a delete_me file in your home directo
 
 
 ## Solution
-![](/images/7.jpg)
+![](./images/7.jpg)
 1. followed instructions to delete the required file using rm command that i found when i did ls
 2. ran /challenge/check to find the file
 
