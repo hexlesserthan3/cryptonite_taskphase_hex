@@ -1,8 +1,8 @@
-#Intro to Commands
-##Question
+# Intro to Commands
+## Question
 In this challenge, to get the flag, you must run the hello command (NOT the echo command) with a single argument of hackers. Try it now!
 
-##Solution
+## Solution
 ![](/images/2.jpg)
 1. used ssh to access the question 
 2. followed instructions to enter the hello command with an argument of 'hackers'
