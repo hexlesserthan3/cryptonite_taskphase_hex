@@ -12,10 +12,10 @@ Good luck!
 
 
 ## Solution
-![](/images/91.jpg)
-![](/images/92.jpg)
-![](/images/93.jpg)
-![](/images/94.jpg)
+![](./images/91.jpg)
+![](./images/92.jpg)
+![](./images/93.jpg)
+![](./images/94.jpg)
 1. basically just a long list of changing looking into directories
 2. hidden directories had a . before the file path
 3. trapped directories were accessed without changing into them
