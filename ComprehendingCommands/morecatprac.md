@@ -4,7 +4,7 @@ You can specify all sorts of paths as arguments to commands, and we'll practice 
 
 
 ## Solution
-![](/images/3.jpg)
+![](./images/3.jpg)
 1. description was given so i just cat the flag from the given path
 
 flag: pwn.college{MSMgLB_6xtoPHFFwc2QjYIPYNUH.dBjM5QDL4kDO1czW}
