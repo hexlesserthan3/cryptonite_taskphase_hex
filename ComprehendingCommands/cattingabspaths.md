@@ -4,7 +4,7 @@ In this directory, I will not copy it to your home directory, but I will make it
 
 
 ## Solution
-![](/images/2.jpg)
+![](./images/2.jpg)
 1. ls in the / directory to find the flag file
 2. cat flag file to find the flag
 
