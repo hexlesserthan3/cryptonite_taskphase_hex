@@ -4,7 +4,7 @@ In this challenge, I've put a hundred thousand lines of text into the /challenge
 
 
 ## Solution
-![](/images/4.jpg)
+![](./images/4.jpg)
 1. cd into the / dir
 2. ran the recommended grep command (cleared the part where i cat the whole data file because i was curious what it would show)
 3. got flag with pwn.college highlighted
