@@ -4,7 +4,7 @@ It's that simple! In this level, please create two files: /tmp/pwn and /tmp/coll
 
 
 ## Solution
-![](/images/6.jpg)
+![](./images/6.jpg)
 1. cd into the / dir and then into the tmp folder
 2. made two files 'pwn'and 'college'
 3. checked to see if they were present
