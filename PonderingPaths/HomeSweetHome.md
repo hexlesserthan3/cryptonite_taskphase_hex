@@ -8,7 +8,7 @@ Now it's your turn to play! In this challenge, /challenge/run will write a copy 
 
 
 ## Solution
-![](/images/10.jpg)
+![](./images/10.jpg)
 1. ran the /challenge/run since i already knew where it was 
 2. ran it with the arg ~/me because i thought 3 characters meant only the part after the forward slash
 3. ran the command with argument ~/m and got flag
