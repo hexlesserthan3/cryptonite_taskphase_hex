@@ -4,7 +4,7 @@ In this challenge, you must retrieve the exit code returned by /challenge/get-co
 
 
 ## Solution
-![](/images/7.jpg)
+![](./images/7.jpg)
 1. another 8 rounds of chmod to finally get the final file
 2. use a+r to make it readable and cat the file
 
