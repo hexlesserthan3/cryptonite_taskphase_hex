@@ -4,7 +4,7 @@ In this challenge, you must retrieve the exit code returned by /challenge/get-co
 
 
 ## Solution
-![](/images/2.jpg)
+![](./images/2.jpg)
 1. make the hacker group the owner of the flag file 
 2. make sure i can access the file using ls -l 
 3. cat the flag file
