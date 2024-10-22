@@ -4,7 +4,7 @@ In this challenge, you must retrieve the exit code returned by /challenge/get-co
 
 
 ## Solution
-![](/images/4.jpg)
+![](./images/4.jpg)
 1. gave the other group read perms for the flag file
 2. used ls -l to see the perms on the file
 3. cat the flag
