@@ -4,7 +4,7 @@ In this challenge, you must retrieve the exit code returned by /challenge/get-co
 
 
 ## Solution
-![](/images/3.jpg)
+![](./images/3.jpg)
 1. find the name of the group that contains our user
 2. use chgrp to gain access to the group that our user is a part of
 3. get the flag using cat
