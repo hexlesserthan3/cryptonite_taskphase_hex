@@ -4,7 +4,7 @@ This level's run wants to see another copy of itself running and using the same 
 
 
 ## Solution
-![](/images/4.jpg)
+![](./images/4.jpg)
 followed the instructions given in the question
 
 flag: pwn.college{oiysWVnQbzz8pp_Q_eWvdOmPc_m.dVDN4QDL4kDO1czW}
