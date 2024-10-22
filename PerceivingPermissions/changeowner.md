@@ -4,7 +4,7 @@ In this level, we will practice changing the owner of the /flag file to the hack
 
 
 ## Solution
-![](/images/1.jpg)
+![](./images/1.jpg)
 1. become the owner of the file using chown
 2. make sure i can access the file using ls -l 
 3. cat the flag file
