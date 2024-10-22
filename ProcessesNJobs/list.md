@@ -4,7 +4,7 @@ In this level, I have once again renamed /challenge/run to a random filename, an
 
 
 ## Solution
-![](/images/1.jpg)
+![](./images/1.jpg)
 followed the instructions given in the question using the ps -ef
 
 flag: pwn.college{QGFJSJc4TTN5EdVU0VZ4TQ60ABE.dhzM4QDL4kDO1czW}
