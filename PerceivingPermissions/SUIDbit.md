@@ -4,7 +4,7 @@ In this challenge, you must retrieve the exit code returned by /challenge/get-co
 
 
 ## Solution
-![](/images/8.jpg)
+![](./images/8.jpg)
 1. chmod'd the /challenge/getroot file to make it a SUID bit
 2. ran the file 
 3. once i was in the shell, i cat the file to find the final flag 
