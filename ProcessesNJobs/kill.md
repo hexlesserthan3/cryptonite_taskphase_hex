@@ -4,7 +4,7 @@ Now, it's time to terminate your first process! In this challenge, /challenge/ru
 
 
 ## Solution
-![](/images/2.jpg)
+![](./images/2.jpg)
 followed the instructions given in the question
 
 flag: pwn.college{kqwWyPtnOu_vGZbQSOHB5IpqjZz.dJDN4QDL4kDO1czW}
