@@ -4,7 +4,7 @@ In this challenge, you must retrieve the exit code returned by /challenge/get-co
 
 
 ## Solution
-![](/images/5.jpg)
+![](./images/5.jpg)
 1. gave admin group exec perms on the run file
 2. ran the file to get the flag
 
