@@ -4,8 +4,8 @@ This level's run wants to see another copy of itself running, not suspended, and
 
 
 ## Solution
-![](/images/6a.jpg)
-![](/images/6b.jpg)
+![](./images/6a.jpg)
+![](./images/6b.jpg)
 followed the instructions given in the question
 
 flag: pwn.college{IW3MSMVTRoWHhl16nxD91OXCvc0.ddDN4QDL4kDO1czW}
