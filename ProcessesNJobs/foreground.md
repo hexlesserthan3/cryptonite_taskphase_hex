@@ -4,7 +4,7 @@ Imagine that you have a backgrounded process, and you want to mess with it some 
 
 
 ## Solution
-![](/images/7.jpg)
+![](./images/7.jpg)
 followed the instructions given in the question
 
 flag: pwn.college{wyl8UnG-bfPP2jZET_chABhx_Am.dhDN4QDL4kDO1czW}
